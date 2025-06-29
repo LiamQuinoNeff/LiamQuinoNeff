@@ -41,4 +41,4 @@
 ## 💞️ Let's Connect  
 - 📫 liamquinoneff@gmail.com  
 - 📸 [Instagram](https://instagram.com/LiamQuinoNeff) · [YouTube](https://youtube.com/@LiamQuinoNeff) · [Twitter](https://twitter.com/LiamQuinoNeff)  
-- 🔗 [LinkedIn]([#](https://www.linkedin.com/in/liam-quino-neff-455891265/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/liam-quino-neff-455891265/)
