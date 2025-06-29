@@ -6,9 +6,6 @@
 <a href="https://github.com/LiamQuinoNeff?tab=repositories">
   <img alt="Repos" src="https://img.shields.io/badge/Repos-20-blue" />
 </a>
-<a href="https://github.com/LiamQuinoNeff/LiamQuinoNeffResume_English.pdf">
-  <img alt="Resume" src="https://img.shields.io/badge/Download-CV-orange" />
-</a>
 
 ---
 
