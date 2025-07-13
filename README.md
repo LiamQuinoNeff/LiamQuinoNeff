@@ -18,9 +18,9 @@
 
 | Category            | Skills                                                              |
 |---------------------|---------------------------------------------------------------------|
-| **Languages**       | C++, C#, Python, SQL, JavaScript, TypeScript, Java, HTML, R                    |
+| **Languages**       | C++, C#, Python, SQL, JavaScript, TypeScript, CSS, Java, HTML, R                    |
 | **Databases**       | SQL Server, MySQL, PostgreSQL, SQLite, MongoDB                     |
-| **Frameworks & Libs** | .NET, Angular, Astro, Pandas, NumPy, Matplotlib                   |
+| **Frameworks & Libs** | .NET, Angular, Astro, Pandas, NumPy, Matplotlib, Streamlit                   |
 | **Tools & Platforms** | GitHub · Figma · Trello · Postman · Excel · PowerPoint · Word      |
 | **Certifications**  | MongoDB Basics · Python for Everybody · SQL for Data Science       |
 | **Idiomas**         | 🇺🇸 English (native) · 🇪🇸 Spanish (native) · 🇫🇷 French (advanced)    |
