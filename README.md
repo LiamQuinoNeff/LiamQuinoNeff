@@ -12,7 +12,7 @@
 ---
 
 ## 💼 Professional Summary  
-> Computer Science student with a strong foundation in data analysis, programming, database management, and artificial intelligence, along with a keen interest in cybersecurity, machine learning, and data science. Seeking opportunities to apply and expand my skills in a professional environment while acquiring new competencies. 
+> Computer Science student with a strong foundation in data analysis, programming, database management, and artificial intelligence, along with a keen interest in machine learning, data science and backend development. Seeking opportunities to apply and expand my skills in a professional environment while acquiring new competencies. 
 
 ---
 
