@@ -27,13 +27,6 @@
 | **Certifications**  | MongoDB Basics · Python for Everybody · SQL for Data Science       |
 | **Languages**         | 🇺🇸 English (native) · 🇪🇸 Spanish (native) · 🇫🇷 French (advanced)    |
 
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,cs,python,js,ts,java,html,css,r,dotnet,angular,nodejs,mysql,postgres,sqlite,mongodb,github,figma,postman,vscode&perline=10" />
-  </a>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
