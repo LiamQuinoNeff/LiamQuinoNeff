@@ -8,8 +8,6 @@
   <img alt="Repos" src="https://img.shields.io/badge/Repos-20-blue" />
 </a>
 <img alt="Profile views" src="https://komarev.com/ghpvc/?username=LiamQuinoNeff&color=brightgreen" />
-</p>ULO Y BADGES -->
-# 👋 Hello, I’m **Liam Quino Neff**  
 <a href="https://github.com/LiamQuinoNeff">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/LiamQuinoNeff?style=social" />
 </a>
