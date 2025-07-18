@@ -1,4 +1,4 @@
-<# 👋 Hello, I'm **Liam Quino Neff**  
+# 👋 Hello, I'm **Liam Quino Neff**  
 
 <p align="left">
 <a href="https://github.com/LiamQuinoNeff">
