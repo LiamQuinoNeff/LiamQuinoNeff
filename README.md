@@ -1,12 +1,13 @@
 # 👋 Hello, I'm **Liam Quino Neff**  
 
-<img alt="Profile views" src="https://komarev.com/ghpvc/?username=LiamQuinoNeff&color=brightgreen" />
+<p align="left">
 <a href="https://github.com/LiamQuinoNeff">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/LiamQuinoNeff?style=social" />
 </a>
 <a href="https://github.com/LiamQuinoNeff?tab=repositories">
   <img alt="Repos" src="https://img.shields.io/badge/Repos-20-blue" />
 </a>
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=LiamQuinoNeff&color=brightgreen" />
 
 ---
 
