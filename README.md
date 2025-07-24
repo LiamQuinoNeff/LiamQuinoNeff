@@ -13,8 +13,15 @@
 
 ---
 
-## 💼 Professional Summary  
-> Computer Science student with a strong foundation in data analysis, programming, database management, and artificial intelligence, along with a keen interest in machine learning, data science and backend development. Seeking opportunities to apply and expand my skills in a professional environment while acquiring new competencies. 
+## 💼 About Me  
+> Computer Science student with a strong foundation in **data analysis**, **programming**, **database management**, and **artificial intelligence**. Passionate about solving complex problems through code and constantly learning emerging technologies. Seeking opportunities to apply and expand my skills in a professional environment.
+
+## 🎯 Areas of Focus  
+- 🔬 **Data Science & Machine Learning:** Developing predictive models and AI solutions for real-world applications
+- 🚀 **Backend Development:** Building robust server-side applications, APIs, and microservices architecture  
+- 🛡️ **Cybersecurity:** Implementing security protocols and developing secure applications
+- 🎮 **Game Development:** Creating interactive experiences and game mechanics using modern engines
+- 📊 **Data Engineering:** Designing efficient data pipelines and analytics systems
 
 ---
 
@@ -46,6 +53,8 @@
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ###### Machine Learning & Data Science:
+![NLTK](https://img.shields.io/badge/NLTK-%23154F3C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![NLP](https://img.shields.io/badge/NLP-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)&nbsp;
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)&nbsp;
@@ -54,7 +63,6 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)&nbsp;
 ![DeepFace](https://img.shields.io/badge/DeepFace-%23FF6B6B.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LIME](https://img.shields.io/badge/LIME-%2300D4AA.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![NLTK](https://img.shields.io/badge/NLTK-%23154F3C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
 ###### Desktop Development:
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23217346.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
