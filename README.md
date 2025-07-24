@@ -106,7 +106,6 @@
 <tr>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=LiamQuinoNeff&theme=dark&show_icons=true&count_private=true" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LiamQuinoNeff&theme=dark&hide_border=false" alt="GitHub Streak" />
 </td>
 <td width="50%" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamQuinoNeff&theme=dark&hide_border=false&langs_count=10"/>
