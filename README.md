@@ -14,7 +14,7 @@
 ---
 
 ## 💼 About Me  
-> Computer Science student with a strong foundation in **Data Science**, **Machine Learning** and **Software Engineering**. Passionate about solving complex problems through code and constantly learning emerging technologies. Seeking opportunities to apply and expand my skills in a professional environment.
+> Computer Science student with a strong foundation in **Data Science**, **Machine Learning** and **Software Engineering**. Passionate about solving complex problems through code and constantly learni[...]
 
 ## 🎯 Areas of Focus  
 - 🔬 **Data Science & Machine Learning:** Developing predictive models and AI solutions for real-world applications
@@ -89,6 +89,7 @@
 ###### Development Tools:
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Aseprite](https://img.shields.io/badge/aseprite-%23FFD700.svg?style=for-the-badge&logo=aseprite&logoColor=black)&nbsp;
@@ -135,11 +136,11 @@
 
 ## 💞️ Let's Connect  
 <div align="center">
-<a href="mailto:liamquinoneff@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email" /></a>
-<a href="https://www.linkedin.com/in/liam-quino-neff-455891265/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" alt="linkedin" /></a>
-<a href="https://instagram.com/LiamQuinoNeff" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="instagram" /></a>
-<a href="https://youtube.com/@LiamQuinoNeff" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" alt="youtube" /></a>
-<a href="https://twitter.com/LiamQuinoNeff" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="twitter" /></a>
+<a href="mailto:liamquinoneff@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="email" /></a[...]
+<a href="https://www.linkedin.com/in/liam-quino-neff-455891265/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColo[...]
+<a href="https://instagram.com/LiamQuinoNeff" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=bla[...]
+<a href="https://youtube.com/@LiamQuinoNeff" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=black" a[...]
+<a href="https://twitter.com/LiamQuinoNeff" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=black" al[...]
 </div>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
