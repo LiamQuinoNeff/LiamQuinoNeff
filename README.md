@@ -34,6 +34,8 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)&nbsp;
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)&nbsp;
+![Promela](https://img.shields.io/badge/promela-%234285F4.svg?style=for-the-badge&logo=proxmox&logoColor=white)&nbsp;
 
 ###### Machine Learning & Data Science:
 ![NLTK](https://img.shields.io/badge/NLTK-%23154F3C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -63,6 +65,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)&nbsp;
 ![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 
 ###### Desktop Development:
 ![Tkinter](https://img.shields.io/badge/Tkinter-%23217346.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -88,6 +91,12 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Aseprite](https://img.shields.io/badge/aseprite-%23FFD700.svg?style=for-the-badge&logo=aseprite&logoColor=black)&nbsp;
+
+###### Game Development Tools:
+![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)&nbsp;
+![GameMaker Studio 2](https://img.shields.io/badge/GameMaker_Studio_2-%23009688.svg?style=for-the-badge&logo=yoyogames&logoColor=white)&nbsp;
+![Ren'Py](https://img.shields.io/badge/ren'py-%23FF6600.svg?style=for-the-badge&logo=renpy&logoColor=white)&nbsp;
 
 ###### Development Environments:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
