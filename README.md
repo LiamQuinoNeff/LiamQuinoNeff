@@ -14,7 +14,7 @@
 ---
 
 ## 💼 About Me  
-> Computer Science student with a strong foundation in **Data Science**, **Machine Learning** and **Software Engineering**. Passionate about solving complex problems through code and constantly learni[...]
+> Computer Science student with a strong foundation in **Data Science**, **Machine Learning** and **Software Engineering**. Passionate about solving complex problems through code and constantly learning emerging technologies. Seeking opportunities to apply and expand my skills in a professional environment.
 
 ## 🎯 Areas of Focus  
 - 🔬 **Data Science & Machine Learning:** Developing predictive models and AI solutions for real-world applications
