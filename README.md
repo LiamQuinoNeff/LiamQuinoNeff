@@ -49,6 +49,10 @@
 ![DeepFace](https://img.shields.io/badge/DeepFace-%23FF6B6B.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![LIME](https://img.shields.io/badge/LIME-%2300D4AA.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 
+###### Multi-Agent Systems:
+![JADE](https://img.shields.io/badge/JADE-%2342A5F5.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![SPADE](https://img.shields.io/badge/SPADE-%230081D6.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
 ###### Frontend Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
