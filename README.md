@@ -2,7 +2,7 @@
 
 # 👋 Hello, I'm **Liam Quino Neff**  
 
-<p align="left">
+<p align="center">
 <a href="https://github.com/LiamQuinoNeff">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/LiamQuinoNeff?style=social" />
 </a>
@@ -14,7 +14,7 @@
 ---
 
 ## 💼 About Me  
-> Computer Science student with a strong foundation in **Data Science**, **Machine Learning** and **Software Engineering**. Passionate about solving complex problems through code and constantly learning emerging technologies. Seeking opportunities to apply and expand my skills in a professional environment.
+> Computer Science student with a strong foundation in **Data Science**, **Machine Learning** and **Data Analysis**. Passionate about solving complex problems through code and constantly learning emerging technologies. Seeking opportunities to apply and expand my skills in a professional environment.
 
 ## 🎯 Areas of Focus  
 - 🔬 **Data Science & Machine Learning:** Developing predictive models and AI solutions for real-world applications
@@ -117,24 +117,28 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-<table align="center">
-<tr>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=LiamQuinoNeff&theme=dark&show_icons=true&count_private=true" />
-</td>
-<td width="50%" align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LiamQuinoNeff&theme=dark&hide_border=false&langs_count=10"/>
-</td>
-</tr>
-</table>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LiamQuinoNeff&theme=dark">
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LiamQuinoNeff&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LiamQuinoNeff&theme=dark">
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LiamQuinoNeff&theme=dark">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LiamQuinoNeff&theme=dark&utcOffset=8">
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LiamQuinoNeff&theme=react-dark&bg_color=0D1117&hide_border=true">
 </p>
 
 <!-- Profile Trophies -->
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=LiamQuinoNeff&theme=darkhub&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" width="84%" />
-    </a>
-</div>
+<h2>GitHub Trophies</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LiamQuinoNeff&theme=darkhub">
+</p>
 
 ---
 
