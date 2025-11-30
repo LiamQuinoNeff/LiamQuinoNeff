@@ -63,6 +63,7 @@
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
+![JWT](https://img.shields.io/badge/JWT-%23000000?style=for-the-badge&logo=jwt&logoColor=white)&nbsp;
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Polars](https://img.shields.io/badge/polars-%23CD792C.svg?style=for-the-badge&logo=polars&logoColor=white)&nbsp;
@@ -82,6 +83,7 @@
 ![Swagger](https://img.shields.io/badge/Swagger-%23Clojure.svg?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)&nbsp;
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)&nbsp;
+![Cloudinary](https://img.shields.io/badge/Cloudinary-%23FF7F50?style=for-the-badge&logo=cloudinary&logoColor=white)&nbsp;
 
 ###### Database Management:
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
