@@ -115,7 +115,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 
 ###### Certifications & Languages:
-**Certifications:** MongoDB Basics · Python for Everybody · SQL for Data Science  
+**Certifications:** Introduction to MongoDB · Python for Everybody · Learn SQL Basics for Data Science · Google IT Support · Excel Skills for Business
 **Languages:** 🇺🇸 English (native) · 🇪🇸 Spanish (native) · 🇫🇷 French (advanced)
 
 ---
